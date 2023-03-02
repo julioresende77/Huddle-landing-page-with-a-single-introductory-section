@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Site URL](https://your-live-site-url.com)
+- Solution URL: [github.com/julioresende77/Huddle-landing-page-with-a-single-introductory-section](https://github.com/julioresende77/Huddle-landing-page-with-a-single-introductory-section)
+- Live Site URL: [Site Huddle-landing-page](https://julioresende77.github.io/Huddle-landing-page-with-a-single-introductory-section/)
 
 ## My process
 
